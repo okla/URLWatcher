@@ -1,5 +1,5 @@
 # URLWatcher
-Lightweight URL contents watcher using Swift AsyncStream
+URL extension to watch its contents using Swift AsyncStream
 
 ## Installation
 Add URLWatcher.swift to your project
